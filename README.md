@@ -1,4 +1,4 @@
-# Django Stars Backend Skeleton
+# Django Profmcdan Backend Skeleton
 
 [Django](https://www.djangoproject.com/) project template based on [cookiecutter](https://cookiecutter.readthedocs.io/).
 
@@ -29,7 +29,7 @@ Step into directory you want to create project and generate project with cookiec
 
 ```bash
 cd /path/to/directory
-cookiecutter https://github.com/django-stars/backend-skeleton
+cookiecutter https://github.com/profmcdan/backend-skeleton
 ```
 Answer the questions in wizard.
 
